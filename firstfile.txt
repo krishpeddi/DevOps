@@ -1,2 +1,3 @@
 this is my first git client 
 this is the commit from swamy
+3rd line added
